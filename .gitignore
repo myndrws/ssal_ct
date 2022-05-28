@@ -1,0 +1,9 @@
+/.idea
+#*.csv
+#*.pkl
+#*.json
+/results
+/__pycache__
+.ipynb_checkpoints
+/splits
+config.py
